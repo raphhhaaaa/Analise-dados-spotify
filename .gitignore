@@ -1,0 +1,46 @@
+# ────────── PYTHON ──────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.log
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# ────────── JUPYTER ──────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ────────── DATA / ARQUIVOS GRANDES ──────────
+data/
+datasets/
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+
+# ────────── IDE / EDITORES ──────────
+.vscode/
+.idea/
+
+# ────────── SISTEMA OPERACIONAL ──────────
+.DS_Store
+Thumbs.db
+
+# ────────── IMAGENS / RESULTADOS ──────────
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# ────────── MISC ──────────
+*.bak
+*.tmp
